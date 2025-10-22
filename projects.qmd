@@ -1,0 +1,14 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## Staffing Forecasting
+Problem → approach → result (add 1–2 numbers).
+
+## Patient Experience Dashboard
+Short description + screenshot.
+
+## Price Transparency Capstone
+What you built/proved + next steps.

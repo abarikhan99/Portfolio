@@ -1,0 +1,13 @@
+---
+title: "Abdul Bari"
+---
+
+# Hi, I'm Abdul Bari!
+Data analyst focused on healthcare ops and dashboards (Excel, Python, Power BI).
+
+## Featured Projects
+- **QCERC Staffing Dashboard** — Excel pivots + Python ETL to forecast under-rounded shifts.
+- **Patient Rounding Analysis** — PressGaney + unit-level trends for responsiveness KPIs.
+- **Price Transparency Capstone** — data collection + normalization plan.
+
+[See all projects →](projects.qmd)

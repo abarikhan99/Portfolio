@@ -1,0 +1,6 @@
+---
+title: "Blog"
+---
+
+# Notes & Write-ups
+(Posts will go in a `posts/` folder; you can add later.)
